@@ -61,4 +61,4 @@ AuthMachine.prototype.login = function(name, pass, cb) {
   cb('error:no server connected yet');
 }
 
-global.AuthMachine = AuthMachine;
+module.exports = AuthMachine;
