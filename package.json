@@ -1,0 +1,13 @@
+{
+  "name": "devkit-authmachine",
+  "version": "1.0.0",
+  "devkit": {
+    "clientPaths": {
+      "auth": "js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aogilvie/authmachine.git"
+  }
+}
